@@ -1,0 +1,98 @@
+body {
+	font-family: 'Lato', sans-serif;
+	margin: 1vh 1vh 1vh 1vh;
+}
+
+p{
+  font-family: 'Lato', sans-serif;
+  font-size: 24px;
+  color: #002b68;
+  max-width: 1000px;
+
+}
+
+h2{
+	vertical-align: middle;
+	
+	line-height: 1.5;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+h3{
+	vertical-align: middle;
+	
+	line-height: 1.5;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.content a{
+	vertical-align: middle;
+	line-height: 1.5;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+
+
+
+#newbanner{
+  width: 95%;
+  max-width: 1200px;
+}
+
+.content{
+  border: solid 2px #002b68;
+  text-align: center;
+  margin: auto;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  padding: 2vh;
+  width: 90%;
+  max-width: 800px;
+}
+
+.content img{
+	text-align: center;
+	width: 90%;
+	max-width: 720px;
+}
+
+.btnArea{
+  vertical-align:middle;	
+  text-align: center;
+}
+
+.btnz{
+	background-color: #002b68;
+	color: white;
+	text-align: center;
+	height: 150px;
+	line-height: 150px;
+	width: 200px;
+	border: solid 2px #00923c;
+	display: inline-block;
+	margin: 15px;
+	vertical-align: middle;
+
+}
+
+.btnz:hover{
+	transform: scale(1.05);
+	
+	background-color: white;
+	color: #002b68;
+}
+
+.btnz a{
+	color: white;
+}
+
+.btnz a:hover{
+	color: #002b68;
+}
+
+/*.btnz h2:hover{
+	color: white;
+}*/
