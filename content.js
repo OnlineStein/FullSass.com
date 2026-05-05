@@ -130,16 +130,17 @@ window.FULL_SASS_CONTENT = {
       }*/
     ],
     testimonials: [
+
+      {
+        quote:
+          "Craig helped me throw a surprise birthday party that was genuinely effortless and engaging for everyone—I was able to focus on my husband and our friends instead of juggling trivia questions and a microphone. He took my suggested topics and ran with them, creating rounds that felt personal, surprising, and fun enough that even strangers at the bar joined in. The music, pacing, and overall vibe were spot-on; my husband was completely surprised, and our friends are still talking about what a great night it was, thanks in large part to Craig. I can't recommend Full Sass enough!",
+        source: "Happy lady throwing her husband a surprise birthday party."
+      },
       {
         quote:
           "It was great how custom it was with rounds curated for the party rather than just recycled content.  Plus you brought great energy and every had a great time even if they weren't trivia aficionados.   There was something everyone enjoyed.  And, it was family friendly in case there is a four year old in your life with a birthday near yours who thought it was their party.",
         source: "Dave, the birthday boy. See some images below of the Dave trivia party"
-      }/*,
-      {
-        quote:
-          "Smart, funny, smooth, and actually organized. It made the whole fundraiser night feel more alive.",
-        source: "Sample fundraiser organizer"
-      }*/
+      }
     ]
   },
   merch: [
