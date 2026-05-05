@@ -895,11 +895,14 @@ body.lightbox-open {
 
 .merch-card {
   overflow: hidden;
+  max-width: 520px;
+  margin: 0 auto;
 }
 
 .merch-card img {
   width: 100%;
-  aspect-ratio: 4 / 3;
+  height: auto;
+  max-height: 40vh;
   object-fit: contain;
   background: #fff;
   border-bottom: 1px solid var(--line);
