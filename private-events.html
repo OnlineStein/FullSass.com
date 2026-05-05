@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Private Events | Full Sass Trivia</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Source+Sans+3:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="private-events">
+    <div id="site-shell"></div>
+    <main class="page">
+      <section class="page-intro layout">
+        <p class="section-label">Private Events</p>
+        <h1>Customized to your exact specifications</h1>
+        <p>
+          We've done birthday parties at breweries, non-profit fundraisers, fun staff events for businesses, and online events to bring people together with fun games. If you're not sure what you want, no worries! Just reach out and we'll figure it all out together.
+        </p>
+      </section>
+
+      <section class="layout event-shell">
+        <div class="event-copy">
+          <div class="info-panel">
+            <h2>What you can book</h2>
+            <ul class="plain-list">
+              <li>Custom categories and themed rounds</li>
+              <li>Visual, audio, and video questions</li>
+              <li>On-site hosting and pacing for your group size</li>
+              <li>Help shaping prizes, finals, and tie-breakers</li>
+            </ul>
+          </div>
+
+          <div class="info-panel">
+            <h2>Testimonials</h2>
+            <div id="testimonials-list" class="testimonial-list"></div>
+          </div>
+        </div>
+        <div id="event-gallery" class="event-gallery-shell"></div>
+      </section>
+
+      <section class="layout form-section">
+        
+        <center>
+        <div class="section-heading">
+          <p class="section-label">Request Info</p>
+          <h2>Start the conversation.</h2>
+        </div>
+        
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeiM5jgV4vq7BZGCcfRX1_ahlmB5mpDYZQD8MNUmTT3jnNbRA/viewform?embedded=true" width="640" height="803" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        </center>
+        <!-- <form id="contact-form" class="contact-form">
+          <label>
+            Name
+            <input type="text" name="name" placeholder="Your name" required />
+          </label>
+          <label>
+            Email
+            <input type="email" name="email" placeholder="[email protected]" required />
+          </label>
+          <label>
+            Event details
+            <textarea
+              name="details"
+              rows="6"
+              placeholder="Date, location, group size, theme ideas, anything helpful."
+              required
+            ></textarea>
+          </label>
+          <button type="submit">Send request</button>
+          <p class="form-note">
+            This version opens an email draft to <a id="private-events-email-link" href="mailto:replace-with-your-email@example.com">replace-with-your-email@example.com</a>.
+            Swap in Formspree or your preferred backend later if you want fully on-site
+            submissions.
+          </p>
+        </form> -->
+      </section>
+    </main>
+    <script src="content.js"></script>
+    <script src="site.js"></script>
+  </body>
+</html>

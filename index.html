@@ -1,43 +1,114 @@
-
 <!DOCTYPE html>
-<html>
-<head>  
-  <link rel="shortcut icon" href="https://www.fullsass.com/favicon.ico">
-	  <link rel="icon" type="image/x-icon" href="https://www.fullsass.com/favicon.ico">
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
-  <title>Full Sass Trivia</title>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Full Sass Trivia</title>
+    <meta
+      name="description"
+      content="Full Sass Trivia at Hold Out Brewing every Tuesday at 7 in Austin, Texas."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Source+Sans+3:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="home">
+    <div id="site-shell"></div>
+    <main class="page page-home">
+      <section class="hero">
+        <!--<div class="hero-image-wrap">
+          <img class="hero-image" src="logo2020.jpg" alt="Full Sass Trivia banner" />
+        </div> -->
+        <div class="hero-copy layout">
+          <p class="eyebrow">Austin's Best Pub Trivia</p>
+          <h1>Full Sass Trivia</h1>
+          <h2 class="hero-subhead">at Hold Out Brewing</h2>
+          <p class="hero-time">Every Tuesday at 7</p>
+          <p class="hero-body">
+            Hand crafted trivia on the patio! Top 3 teams + a wild card wins their choice of prizes, including a $40 gift card, a $20 gift card, and the iconic mystery bag. Monthly champs win a Hold Out and Full Sass prize pack.
+          </p>
+<!--           <div class="prize-strip">
+            <span>$40 gift card</span>
+            <span>$20 gift card</span>
+            <span>2 mystery prizes</span>
+          </div> -->
+          <div class="hero-links">
+            <a class="button-link" href="https://holdoutbrewing.com/" target="_blank" rel="noreferrer">Hold Out Brewing</a>
+          </div>
 
-</head>
-<body>
-     <center> <img id="newbanner" src="https://raw.githubusercontent.com/OnlineStein/FullSass.com/refs/heads/main/logo2020.jpg"></center>
+        </div>
+      </section>
 
-     <div class="content">
-	     <h2><strong>Austin's Best Pub Trivia</strong><br><br>Every Tuesday night at<br><a href="https://www.holdoutbrewing.com/" target="_blank">HOLD OUT BREWING</a><br>at 7:00</h2> 
-	</div>
-	<div class="content">
-		 <p><strong>The team with the highest score at the end of the month will win a Full Sass/Hold Out prize pack!</strong></p>
-		 
-		 
-    </div>
-	
-  <div class="content">
-	
-	<h3>Contact: <a href="Email:fullsass@gmail.com">fullsass@gmail.com</a></h3><br>
-    <h2><a target="_blank" href="https://www.instagram.com/fullsasstrivia/">Full Sass on Instagram</a></h2><br><br>
-    <h2><a target="_blank" href="https://www.facebook.com/FullSass/">Full Sass on Facebook</a></h2><br><br>
-	<h2><a target="_blank" href="https://www.teepublic.com/user/fst">Full Sass Trivia Merchandise</a></h2>
-	
-  </div>
+      <section class="home-band">
+        <div class="layout feature-grid">
+          <article class="feature-card feature-card--social">
+            <h2>Follow for Hints and Updates</h2>
+            <!-- <p>
+              Category teases, weekly reminders, assorted side bits, and the occasional warning that something strange is coming Tuesday night.
+            </p> -->
+            <div class="feature-card__buttons">
+              <a id="home-instagram-link" class="button-link" href="https://www.instagram.com/fullsasstrivia" target="_blank" rel="noreferrer">Instagram</a>
+              <a id="home-facebook-link" class="button-link" href="https://www.facebook.com/fullsass" target="_blank" rel="noreferrer">Facebook</a>
+            </div>
+          </article>
+          <a class="feature-card feature-card--link" href="results.html">
+            <h2>Results</h2>
+            <p>
+              A running archive of weekly and monthly winners, scoreboards, categories, photos, and so many
+              inappropriate team names.
+            </p>
+            <span class="feature-card__cta">See the latest results</span>
+          </a>
+          <a class="feature-card feature-card--link" href="stuff.html">
+            <h2>Stuff</h2>
+            <p>
+              Random videos, images, puzzles, and Craig's stream of consciousness.
+            </p>
+            <span class="feature-card__cta">Browse the stuff</span>
+          </a>
+          <a class="feature-card feature-card--link" href="private-events.html">
+            <h2>Private Events</h2>
+            <p>
+              Company socials, birthday parties, fundraisers, or international online trivia throwdowns. As customized as you want!
+            </p>
+            <span class="feature-card__cta">Learn more about private events</span>
+          </a>
+          <a class="feature-card feature-card--link" href="merch.html">
+            <h2>Merch</h2>
+            <p>
+              Shirts, stickers, mugs, and things that don't really seem to be related to trivia at all 🤷. 
+            </p>
+            <span class="feature-card__cta">See the merch</span>
+          </a>
+          <a class="feature-card feature-card--link" href="about-contact.html">
+            <h2>About + Contact</h2>
+            <p>
+              Holler atchyer boy.
+            </p>
+            <span class="feature-card__cta">Read more and reach out</span>
+          </a>
+        </div>
+      </section>
 
-
-        
-
-
-<!-- <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body> -->
-
-
-
-
+<!--       <section class="home-band home-band--thin">
+        <div class="layout split-note">
+          <div>
+            <p class="section-label">What It Feels Like</p>
+            <h2>Clean, readable, and built to age well.</h2>
+          </div>
+          <p>
+            This site is intentionally calm: white space, strong type, a solid nav, and
+            room for the content to do the work. The update flow lives in the code so you
+            can post weekly results or random extras without fighting a CMS.
+          </p>
+        </div>
+      </section> -->
+    </main>
+    <script src="content.js"></script>
+    <script src="site.js"></script>
+  </body>
 </html>
