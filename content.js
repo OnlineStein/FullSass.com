@@ -10,6 +10,21 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "May 5, 2026",
+      title: "Pin Pals Come From Behind!",
+      intro:
+        "A perfect round 10 launched Pin Pals to their first victory in a few weeks. We'll see about getting the backlog of victory photos uploaded one day. Breast Friends opted for the Random Ass Record of the Week, and ended up with some really romantic stuff. Swamp Ass took home a living being for the Wild Card prize.",
+      notes: [
+        "Team Pin Pals, the final scoreboard, and the categories of the night."
+      ],
+      media: [
+        { type: "image", src: "images/050526champs.jpg", alt: "The Champs" },
+        { type: "image", src: "images/050526scores.png", alt: "The final scoreboard" },
+        { type: "image", src: "images/weeklyCategories05-05-2026.jpg", alt: "The Weekly Categories" }
+      ]
+    },
+    {
+      published: true,
       week: "April 28, 2026",
       title: "Urine Trouble Wins the Week and Month!",
       intro:

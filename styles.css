@@ -669,25 +669,25 @@ h2 {
   position: absolute;
   top: calc(50% - 1.6rem);
   z-index: 3;
-  width: 44px;
-  height: 44px;
-  border: 1px solid rgba(255, 255, 255, 0.8);
-  background: rgba(1, 43, 104, 0.78);
+  width: 36px;
+  height: 36px;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  background: rgba(1, 43, 104, 0.2);
   color: #fff;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
   font: inherit;
-  font-size: 1.15rem;
+  font-size: 0.98rem;
 }
 
 .carousel-arrow--prev {
-  left: 0.75rem;
+  left: 0.55rem;
 }
 
 .carousel-arrow--next {
-  right: 0.75rem;
+  right: 0.55rem;
 }
 
 .carousel-footer {
@@ -782,8 +782,8 @@ h2 {
   width: 48px;
   height: 48px;
   transform: translateY(-50%);
-  border: 1px solid rgba(255, 255, 255, 0.65);
-  background: rgba(1, 43, 104, 0.78);
+  border: 1px solid rgba(255, 255, 255, 0.32);
+  background: rgba(1, 43, 104, 0.24);
   color: #fff;
   font: inherit;
   font-size: 1.2rem;
