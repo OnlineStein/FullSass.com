@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Texas Longhorns 4-Year Stretches</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="page-shell">
+      <section class="hero">
+        <p class="eyebrow">Texas Longhorns Football</p>
+        <h1>Best and Worst 4-Year Stretches</h1>
+        <p class="intro">
+          Rolling four-season windows built from the season list on Wikipedia. Rankings use win percentage, with ties counted as half a win.
+        </p>
+      </section>
+
+      <section class="summary-grid" id="summary-grid"></section>
+
+      <section class="controls">
+        <div class="control-group">
+          <label for="sort-select">Sort by</label>
+          <select id="sort-select">
+            <option value="best">Best first</option>
+            <option value="worst">Worst first</option>
+            <option value="startYearAsc">Start year ascending</option>
+            <option value="startYearDesc">Start year descending</option>
+            <option value="winsDesc">Most wins</option>
+          </select>
+        </div>
+
+        <div class="control-group">
+          <label for="filter-select">Show</label>
+          <select id="filter-select">
+            <option value="all">All windows</option>
+            <option value="top10">Top 10 best</option>
+            <option value="bottom10">Top 10 worst</option>
+            <option value="above800">Win pct .800 and up</option>
+            <option value="below500">Below .500</option>
+          </select>
+        </div>
+      </section>
+
+      <section class="table-card">
+        <div class="table-header">
+          <div>
+            <h2>Rolling 4-Year Table</h2>
+            <p id="table-caption"></p>
+          </div>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th class="rank-col">Rank</th>
+                <th>Stretch</th>
+                <th>Record</th>
+                <th>Win %</th>
+                <th>Wins</th>
+                <th>Losses</th>
+                <th>Ties</th>
+                <th>Coaches</th>
+                <th>Season-by-season</th>
+              </tr>
+            </thead>
+            <tbody id="table-body"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
