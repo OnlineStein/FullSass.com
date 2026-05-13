@@ -13,14 +13,15 @@ window.FULL_SASS_CONTENT = {
       week: "May 12, 2026",
       title: "Sharkie ties the all-time record!",
       intro:
-        "Team Will the Real Slim Sharkie Please Stand Up? only missed THREE questions on the night, and tied the all-time record of 58 points. What a performance! Craig was so excited about it that he forgot to take their photo. After a brief mixup with the scoring and a tie-breaker about Tiger Woods, team Don't Dallas My Austin took home a $40 gift card. Grindr Meetup took off at halftime - we weren't sure if that was a good sign or a bad sign.",
+        "Team Will the Real Slim Sharkie Please Stand Up? only missed THREE questions on the night, and tied the all-time record of 58 points. What a performance! Craig was so excited about it that he forgot to take their photo, but luckily they sent him a cute one with Sharkie himself. After a brief mixup with the scoring and a tie-breaker about Tiger Woods, team Don't Dallas My Austin took home a $40 gift card. Grindr Meetup took off at halftime - we weren't sure if that was a good sign or a bad sign.",
       notes: [
-        "The final scoreboard, the categories of the night, and the Shark-related mystery prize that the champs took home."
+        "Sharkie himself along with the Shark-related mystery prize that the champs took home, the final scoreboard, and the categories of the night."
       ],
       media: [
+        { type: "image", src: "images/sharkie.jpg", alt: "Sharkie with the mystery prize - a 6 foot inflatable shark." },
         { type: "image", src: "images/051226scores.png", alt: "The final scoreboard" },
-        { type: "image", src: "images/weeklyCategories05-12-2026.jpg", alt: "The Weekly Categories" },
-        { type: "image", src: "images/sharkPrize.jpg", alt: "The mystery prize - a 6 foot inflatable shark." }
+        { type: "image", src: "images/weeklyCategories05-12-2026.jpg", alt: "The Weekly Categories" }
+        
       ]
     },
     {
