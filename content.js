@@ -10,6 +10,23 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "May 19, 2026",
+      title: "Pin Pals Back On Top!",
+      intro:
+        "I made you think about numbers - sorry, not sorry. Sharkie was looking dangerous again, but Pin Pals made a nice comeback in the second half. I think the Date Night video round was a big hit, I know I had a great time putting it together. The mystery prizes tonight were a FREAKIN TREE (a Texas Red Oak to be exact) and the Savage! Tihati's South Seas Spectacular record album. Hopefully everyone got home before the storm hit!",
+      notes: [
+        "The champs took home the $40 gift card; the final scoreboard; the Random Ass Record of the Week; and the categories of the night."
+      ],
+      media: [
+        { type: "image", src: "images/051926champs.jpg", alt: "The champs took home the $40 gift card!" },
+        { type: "image", src: "images/051926scores.png", alt: "The final scoreboard." },
+        { type: "image", src: "https://i.ebayimg.com/images/g/sT0AAeSwTf1plvUl/s-l1600.webp", alt: "The random ass record of the week." },
+        { type: "image", src: "images/weeklyCategories05-19-2026.jpg", alt: "The Weekly Categories" }
+        
+      ]
+    },
+    {
+      published: true,
       week: "May 12, 2026",
       title: "Sharkie ties the all-time record!",
       intro:
