@@ -10,6 +10,26 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "May 26, 2026",
+      title: "The night and month come down to the wire!",
+      intro:
+        "Both the nightly and our monthly contest came down to the final round: TV show theme songs. Our small font long team name friends won the night by 2, but finished up just ONE QUESTION behind Sharkie for the May championship. I asked 244 questions in May, and they were separated by one measely question! Crazy. The May prize pack included some Early Bird gummies, some 1990 Skybox NBA cards, and of course free beer and other fun stuff.",
+      notes: [
+        "The champs took home the $40 gift card; Sharkie, the May champs; the final scoreboard; 3rd place Lokos; A gift of fresh produce from Swamp Ass; the remains of the North Austin Drinking Team, who will now forever appreciate their elders (the old dudes who didn't show up); and the weekly categories."
+      ],
+      media: [
+        { type: "image", src: "images/champs52626.jpg", alt: "The champs took home the $40 gift card!" },
+        { type: "image", src: "images/mayChamps.jpg", alt: "Sharkie and the May Champions" },
+        { type: "image", src: "images/052626scores.png", alt: "The final scoreboard." },
+        { type: "image", src: "images/lokos.jpg", alt: "3rd place Lokos" },
+        { type: "image", src: "images/CHARD.jpg", alt: "A gift of fresh produce from Swamp Ass" },
+        { type: "image", src: "images/9th.jpg", alt: "North Austin Drinking Team" },
+        { type: "image", src: "images/weeklyCategories05-26-2026.jpg", alt: "The Weekly Categories" }
+        
+      ]
+    },
+    {
+      published: true,
       week: "May 19, 2026",
       title: "Pin Pals Back On Top!",
       intro:
