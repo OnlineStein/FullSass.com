@@ -10,6 +10,23 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "June 2, 2026",
+      title: "It was a dark and stormy night...",
+      intro:
+        "Dirk NoQuizki fought through the lightning and torrential downpour to come out on top! They chose the mystery prize and left with a Dino Blaster! The Soup Sluts got the wildcard prize and won the $20 gift card! We celebrated a couple of birthdays, including Abby!",
+      notes: [
+        "The champs with their Dino Blaster; The birthday girl (and her team too); the final scoreboard; The weekly categories."
+      ],
+      media: [
+        { type: "image", src: "images/dirkNoQuizki.jpg", alt: "The champs!" },
+        { type: "image", src: "images/abby22.jpg", alt: "The birthday girl (and her team too)" },
+        { type: "image", src: "images/060226scores.png", alt: "The final scoreboard." },
+        { type: "image", src: "images/weeklyCategories6-2-2026.jpg", alt: "The Weekly Categories" }
+        
+      ]
+    },
+    {
+      published: true,
       week: "May 26, 2026",
       title: "The night and month come down to the wire!",
       intro:
