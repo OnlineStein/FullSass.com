@@ -10,6 +10,21 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "June 9, 2026",
+      title: "David Foster Walrus wins by a hair",
+      intro:
+        "We had a 3-way tie at halftime, and a super tight race throughout. David Foster Walrus took home the $40, Pin Pals won a giant strawberry, Feels Like '98 took the $20, and the Wild Card winners Blondetourage took home some Early Bird gummies.",
+      notes: [
+        "The champs! The final scoreboard; The weekly categories."
+      ],
+      media: [
+        { type: "image", src: "images/champs060926.jpg", alt: "The champs!" },
+        { type: "image", src: "images/060926scores.png", alt: "The final scoreboard." },
+        { type: "image", src: "images/weeklyCategories6-9-2026.jpg", alt: "The Weekly Categories" }
+      ]
+    },
+    {
+      published: true,
       week: "June 2, 2026",
       title: "It was a dark and stormy night...",
       intro:
