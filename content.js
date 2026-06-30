@@ -10,6 +10,22 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "June 16 & 23, 2026",
+      title: "A 2-for-1 Update. Dirk NoQuizki and Pump & Dump Add Their Names to The Board of Champions",
+      intro:
+        "Aimee and Kramer held down the fort for 2 weeks while Craig visited family in Arlington and the Yucatan. Thanks y'all! Dirk NoQuizki won AGAIN and then first-time champs Pump and Dump drank responsibly and won on June 23.",
+      notes: [
+        "Dirk NoQuizki; Pump and Dump; Noah came back and I missed him! Sorry about Munch, y'all. My bad."
+      ],
+      media: [
+        { type: "image", src: "images/Juneback2.jpg", alt: "Dirk NoQuizki" },
+        { type: "image", src: "images/Juneback3.jpg", alt: "Pump and Dump" },
+        { type: "image", src: "images/Juneback4.1.jpg", alt: "Noah!" },
+        { type: "image", src: "images/Juneback5.jpg", alt: "My bad y'all" }
+      ]
+    },
+    {
+      published: true,
       week: "June 9, 2026",
       title: "David Foster Walrus wins by a hair",
       intro:
