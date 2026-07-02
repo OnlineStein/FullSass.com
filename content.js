@@ -10,6 +10,22 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "June 30, 2026",
+      title: "Winners? I Hardly Know 'ers!",
+      intro:
+        "Team We Spent Last Week Studying took the week, Dirk NoQuizki took the month!<br><br>After loyally coming (nearly) every dang week since last June, the Fantastic 4+whatever I hardly knew 'er took home the title! It took a tiebreaker showdown about Thomas Paine's Common Sense. But don't feel bad for Dirk - they pretty much DOMINATED in June and took home the monthly prize pack. There were some fresh backyard figs in there! By the way - this was a record number of teams to play! Took me a slightly longer first break to get caught up on grading, but when I looked down at the end, it was 8:59 PM. Thanks for coming out, y'all!!",
+      notes: [
+        "We Spent Last Week Studying; Dirk NoQuizki; The Categories; And the final scoreboard."
+      ],
+      media: [
+        { type: "image", src: "images/June30champs.jpg", alt: "The weekly champions"},
+        { type: "image", src: "images/JuneChamps.jpg", alt: "June Champs Dirk NoQuizki"},
+        { type: "image", src: "images/weeklyCategories6-30-26.jpg", alt: "Weekly Categories"},
+        { type: "image", src: "images/063026scores.jpg", alt: "Final scores" }
+      ]
+    },
+    {
+      published: true,
       week: "June 16 & 23, 2026",
       title: "A 2-for-1 Update. Dirk NoQuizki and Pump & Dump Add Their Names to The Board of Champions",
       intro:
