@@ -10,6 +10,22 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "July 7, 2026",
+      title: "Pin Pals back on top!",
+      intro:
+        "I told Curtis Pin Pals was due, and he agreed. Pin Pals had a wire-to-wire victory that remained close all night. I included a screenshot just in case you wondered how the wildcard prize is determined.",
+      notes: [
+        "Pin Pals, The final scoreboard, The cateogires, and the random number generator."
+      ],
+      media: [
+        { type: "image", src: "images/champs070726.jpg", alt: "The weekly champions"},
+        { type: "image", src: "images/070826scores.png", alt: "The final scoreboard"},
+        { type: "image", src: "images/weeklyCategories7-7-2026.jpg", alt: "Weekly Categories"},
+        { type: "image", src: "images/pickarandom.png", alt: "The random number generator" }
+      ]
+    },
+    {
+      published: true,
       week: "June 30, 2026",
       title: "Winners? I Hardly Know 'ers!",
       intro:
