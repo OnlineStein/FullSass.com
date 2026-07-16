@@ -10,6 +10,22 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "July 14, 2026",
+      title: "Sharkie wins historic 5-way tie!",
+      intro:
+        "I don't think we've ever had more than 2 teams tie for first - well not anymore! FIVE teams tied for the win, which means we had to go to the tie-breaking question: How many days have passed since England last won the men's World Cup? Sharkie's team won by ONE DAY! Incredible.",
+      notes: [
+        "The champs, The scoreboard, The up-close scoreboard, and our weekly categories."
+      ],
+      media: [
+        { type: "image", src: "images/champs7-14-26.jpg", alt: "The weekly champions"},
+        { type: "image", src: "images/071426scores.png", alt: "The final scoreboard"},
+        { type: "image", src: "images/scoreboard7-14-26.jpg", alt: "The leaders"},
+        { type: "image", src: "images/weeklyCategories7-14-2026.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "July 7, 2026",
       title: "Pin Pals back on top!",
       intro:
