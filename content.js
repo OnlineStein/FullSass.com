@@ -10,6 +10,22 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "July 21, 2026",
+      title: "BRAVO! To Pin Pals",
+      intro:
+        "It was a hot night, but y'all came out to play! Five teams were within 2 points of the win, but a perfect video round helped put Pin Pals on top!  - Swamp Ass will take that one Bravo video to their grave I am sure. Also - In Quadrito had the lead at halftime, then left! Who does that?!?",
+      notes: [
+        "The champs, The scoreboard, Notes from the video round, and our weekly categories."
+      ],
+      media: [
+        { type: "image", src: "images/champs7-22-26.jpg", alt: "The weekly champions"},
+        { type: "image", src: "images/072226scores.png", alt: "The final scoreboard"},
+        { type: "image", src: "images/videoRound.jpg", alt: "Notes from the video round"},
+        { type: "image", src: "images/weeklyCategories7-21-2026.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "July 14, 2026",
       title: "Sharkie wins historic 5-way tie!",
       intro:
