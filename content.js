@@ -10,6 +10,22 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "July 28, 2026",
+      title: "Sharkie Wins On Shark Week!<br>Cabo Bobbettes Win July!",
+      intro:
+        "They called themselves &quot;It's Shark Week, so if we lose, we're never coming back&quot; - so pretty good thing they won! Full Sass wouldn't be the same without Sharkie (the dog or the team). Congrats to almost papa Donald. Hope to see you soon!<br><br>Cabo Bobettes finished in 3rd place for the week but won July! They got a fun prize pack with Hold Out beer, some Earlybird gummies, and a bunch of silly fun stuff as well. They ended up winning July by 10 whole questions! They got 201 freakin' points in the month! Dang, y'all!",
+      notes: [
+        "The weekly champs, The monthly champs, The final scoreboard, and our weekly categories."
+      ],
+      media: [
+        { type: "image", src: "images/SHARKIEWEEK.jpg", alt: "The weekly champs"},
+        { type: "image", src: "images/CABOBOBBETTES.jpg", alt: "The monthly champs"},
+        { type: "image", src: "images/072826scores.png", alt: "The final scoreboard"},
+        { type: "image", src: "images/weeklyCategories7-28-26.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "July 21, 2026",
       title: "BRAVO! To Pin Pals",
       intro:
