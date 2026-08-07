@@ -8,6 +8,21 @@ window.FULL_SASS_CONTENT = {
     }
   },
   results: [
+      {
+      published: true,
+      week: "August 4, 2026",
+      title: "Thigh Sweat Wins the 3-way Tie!",
+      intro:
+        "We had an INCREDIBLY close trivia night with 18 teams within 6 points of the win. That's crazy! 3 teams tied for first, and Thigh Sweat came out on top. I never thought I'd type &quot;Thigh Sweat came out on top&quot; but there we go, I just did it twice. This was a super duper fun night with 23 teams playing! Not sure what scared away team #Balls_Alert, but they were missed. BTW, even the tiebreaker was extremely close, with Triv Laugh Love missing out but thirty cents on their guess for the stock price of Coors. I guess you had to be there. Love y'all, can't wait to see you next Tuesday!",
+      notes: [
+        "The weekly champs Thigh Sweat, The final scoreboard, and our weekly categories."
+      ],
+      media: [
+        { type: "image", src: "images/thighSweat.jpg", alt: "The weekly champs"},
+        { type: "image", src: "images/080726scores.png", alt: "The final scoreboard"},
+        { type: "image", src: "images/weeklyCategories8-4-26.jpg", alt: "Weekly Categories"}
+      ]
+    },
     {
       published: true,
       week: "July 28, 2026",
