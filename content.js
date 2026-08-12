@@ -8,6 +8,21 @@ window.FULL_SASS_CONTENT = {
     }
   },
   results: [
+    {
+      published: true,
+      week: "August 11, 2026",
+      title: "Dirk NoQuizki With A Dominant Win!",
+      intro:
+        "After a bunch of weeks straight with extremely close final scores, Dirk said &quot;not this time!&quot; I think it was because of the mini Dirk Nowitzki shrine they brought with them. He is the GOAT after all. The standup video round turned out to be a big challenge for the crowd - and the Boomer Round 1 was not a kind one either. Swamp Ass was our Wildcard winner and took home some potentially illegal candy cigarettes. Happy first week of school!",
+      notes: [
+        "The weekly champs Dirk NoQuizki, The final scoreboard, and our weekly categories."
+      ],
+      media: [
+        { type: "image", src: "images/Champs8-12-2026.jpg", alt: "The weekly champs"},
+        { type: "image", src: "images/081226scores.png", alt: "The final scoreboard"},
+        { type: "image", src: "images/weeklyCategories8-10-26.jpg", alt: "Weekly Categories"}
+      ]
+    },
       {
       published: true,
       week: "August 4, 2026",
