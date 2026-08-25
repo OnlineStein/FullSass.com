@@ -10,6 +10,22 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "August 18, 2026",
+      title: "Triv Laugh Love Comes Out On Top!<br>For The Birthday Boy!!",
+      intro:
+        "After many close calls, Triv Laugh Love won the week after it came down to the tiebreaker!",
+      notes: [
+        "The weekly champs Triv Laugh Love, The Birthday Boy, The final scoreboard, and our weekly categories."
+      ],
+      media: [
+        { type: "image", src: "images/TrivLaughLove.jpg", alt: "The weekly champs"},
+        { type: "image", src: "images/bdayBoy.jpg", alt: "The birthday boy"},
+        { type: "image", src: "images/081826scores.png", alt: "The final scoreboard"},
+        { type: "image", src: "images/weeklyCategories8-18-26.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "August 11, 2026",
       title: "Dirk NoQuizki With A Dominant Win!",
       intro:
