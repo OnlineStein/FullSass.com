@@ -10,6 +10,22 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "August 25, 2026",
+      title: "Hawgs Win The Night!<br>Triv Laugh Love Wins The Month!",
+      intro:
+        "Hawggin' 9 to 5 narrowly avoided a final round disaster (they put potatoes for the currency of Ireland!!) but held on to win by HALF A POINT! Triv Laugh Love made it a Back2Back monthly championship and took home a great Hold Out + Full Sass prize pack. Very impressive!",
+      notes: [
+        "The weekly champs Hawggin' 9 to 5, The monthly champs Triv Laugh Love, The final scoreboard, and our weekly categories."
+      ],
+      media: [
+        { type: "image", src: "images/Hawggin.jpg", alt: "The weekly champs"},
+        { type: "image", src: "images/TrivLaughLove2.jpg", alt: "The monthly champs"},
+        { type: "image", src: "images/082526scores.png", alt: "The final scoreboard"},
+        { type: "image", src: "images/weeklyCategories8-25-26.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "August 18, 2026",
       title: "Triv Laugh Love Comes Out On Top!<br>For The Birthday Boy!!",
       intro:
