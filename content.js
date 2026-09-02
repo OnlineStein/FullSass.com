@@ -10,6 +10,21 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "September 1, 2026",
+      title: "5318008!",
+      intro:
+        "A Perfect Round 8 pushed 5318008 to the top, which seems appropriate on a night where we honored Dolly Parton.",
+      notes: [
+        "Team 5318008, The final scoreboard, and our weekly categories."
+      ],
+      media: [
+        { type: "image", src: "images/5318008.jpg", alt: "The weekly champs"},
+        { type: "image", src: "images/090126scores.png", alt: "The final scoreboard"},
+        { type: "image", src: "images/weeklyCategories9-1-26.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "August 25, 2026",
       title: "Hawgs Win The Night!<br>Triv Laugh Love Wins The Month!",
       intro:
