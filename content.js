@@ -10,6 +10,21 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "September 8, 2026",
+      title: "Beer Pressure wins the Birthday Edition!",
+      intro:
+        "We had a blast celebrating Full Sass' 9th birthday! Highlights were the physical challenge, the live music round, some cupcakes, and a fun lightning round about numbers. Thanks for coming out, y'all!",
+      notes: [
+        "Team Beer Pressure, The final scoreboard, and our weekly categories."
+      ],
+      media: [
+        { type: "image", src: "images/BeerPressure.jpg", alt: "The weekly champs"},
+        { type: "image", src: "images/090826scores.png", alt: "The final scoreboard"},
+        { type: "image", src: "images/weeklyCategories9-8-26.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "September 1, 2026",
       title: "5318008!",
       intro:
