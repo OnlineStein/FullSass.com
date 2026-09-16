@@ -10,6 +10,21 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "September 15, 2026",
+      title: "Wisdom Teeth Takes It In A Tiebreak!",
+      intro:
+        "We watched some football movies and played with some Lego maps on our way to a Wisdom Tooth tiebreak victory. They were the closest to Simon Bolivar's birthday. Happy Hispanic Heritage Month! More on that in future editions.",
+      notes: [
+        "Team Wisdom Teeth, The final scoreboard, and our weekly categories."
+      ],
+      media: [
+        { type: "image", src: "images/WisdomTooth.jpg", alt: "The weekly champs"},
+        { type: "image", src: "images/091526scores.png", alt: "The final scoreboard"},
+        { type: "image", src: "images/weeklyCategories9-15-26.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "September 8, 2026",
       title: "Beer Pressure wins the Birthday Edition!",
       intro:
