@@ -10,6 +10,24 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "September 22, 2026",
+      title: "Two Trivia Nights, Two Champs!",
+      intro:
+        "The inaugural edition of trivia at Hold Out Bar & Grill was won (with authority!) by team &quot;My Doubters Will Become My Grouters When I Remodel The Bathroom Of Success&quot;, while Robert Penguin Warren also had a strong victory at the flagship Hold Out Brewing (sorry we forgot to snag a pic!). We had a great time at both spots, and loved having Josh & Nariah on the team!",
+      notes: [
+        "HOB&G champs &quot;My Doubters Will Become My Grouters When I Remodel The Bathroom Of Success&quot;, The Mystery Bag unveiling, The indoor/outdoor setup at HOB&G, Final scoreboard at HOB&G, Final scoreboard at Hold Out Brewing, and our weekly categories."
+      ],
+      media: [
+        { type: "image", src: "images/champs221.jpg", alt: "The northside champs"},
+        { type: "image", src: "images/champs21.jpg", alt: "The mystery bag prize"},
+        { type: "image", src: "images/InsideOutside.jpg", alt: "The northside setup"},
+        { type: "image", src: "images/northsideboard.png", alt: "The final northside scoreboard"},
+        { type: "image", src: "images/flagshipboard.png", alt: "The downtown scoreboard"},
+        { type: "image", src: "images/weeklyCategories9-22-2026.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "September 15, 2026",
       title: "Wisdom Teeth Takes It In A Tiebreak!",
       intro:
