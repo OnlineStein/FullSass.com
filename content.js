@@ -10,6 +10,23 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "September 29, 2026",
+      title: "Soup Sluts & Skeeter on My Peter win the week!<br>Pin Pals win September!",
+      intro:
+        "After many Tuesdays as the bridesmaids, Soup Sluts are now the brides, and no tie-breaker needed! Up at Hold Out Bar & Grill, Skeeter On My Peter (great team name) won by 4 whole questions! Domination! Speaking of domination, PIN PALS won the month by NINE! Eight teams never missed a week in September, and we appreciate all of you very much! The monthly contest will start at Hold Out Bar and Grill in October!",
+      notes: [
+        "Hold Out Brewing Champs Soup Sluts; Hold Out Brewing Scoreboard; The Hold Out Bar & Grill Scoreboard; The September scoreboard; Weekly Categories"
+      ],
+      media: [
+        { type: "image", src: "images/SoupSluts.jpg", alt: "Soup Sluts"},
+        { type: "image", src: "images/HOBscores93026.png", alt: "Hold Out Brewing Scoreboard"},
+        { type: "image", src: "images/HOBaGscores93026.png", alt: "The Hold Out Bar & Grill Scoreboard"},
+        { type: "image", src: "images/SeptScores.png", alt: "The September scoreboard"},
+        { type: "image", src: "images/weeklyCategories9-29-2026.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "September 22, 2026",
       title: "Two Trivia Nights, Two Champs!",
       intro:
