@@ -15,7 +15,7 @@ window.FULL_SASS_CONTENT = {
       intro:
         "We watched some Pigflix, Named That Sandwich!, and both teams won close contests. Quizard of Oz chose the Mystery Bag prize for 1st place, which takes GUTS! That's a Full Sass choice right there.",
       notes: [
-        "Hold Out Bar & Grill Champs The Quizard of Oz; Hold Out Brewing Champs Wisdom Teeth; Hold Out Bar & Grill 2nd Place Catboy Birthday; Hold Out Bar & Grill 3rd Place Holy Molars and the Teenage Dirtbags; Hold Out Brewing Scoreboard; The Hold Out Bar & Grill Scoreboard; The Weekly Categories"
+        "1. Hold Out Bar & Grill Champs The Quizard of Oz; 2. Hold Out Brewing Champs Wisdom Teeth; 3. Hold Out Bar & Grill 2nd Place Catboy Birthday; 4. Hold Out Bar & Grill 3rd Place Holy Molars and the Teenage Dirtbags; 5. Hold Out Brewing Scoreboard; 6. The Hold Out Bar & Grill Scoreboard; 7. The Weekly Categories"
       ],
       media: [
         { type: "image", src: "images/QuizardOfOz.jpg", alt: "Quizard of Oz"},
