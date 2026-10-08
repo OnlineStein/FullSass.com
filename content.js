@@ -10,6 +10,25 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "October 6, 2026",
+      title: "Wisdom Teeth & The Quizard of Oz Win The Week!",
+      intro:
+        "We watched some Pigflix, Named That Sandwich!, and both teams won close contests. Quizard of Oz chose the Mystery Bag prize for 1st place, which takes GUTS! That's a Full Sass choice right there.",
+      notes: [
+        "Hold Out Bar & Grill Champs The Quizard of Oz; Hold Out Brewing Champs Wisdom Teeth; Hold Out Bar & Grill 2nd Place Catboy Birthday; Hold Out Bar & Grill 3rd Place Holy Molars and the Teenage Dirtbags; Hold Out Brewing Scoreboard; The Hold Out Bar & Grill Scoreboard; The Weekly Categories"
+      ],
+      media: [
+        { type: "image", src: "images/QuizardOfOz.jpg", alt: "Quizard of Oz"},
+        { type: "image", src: "images/WisdomTeeth10626.jpg", alt: "Wisdom Teeth"},
+        { type: "image", src: "images/CatboyBirthday.jpg", alt: "Catboy Birthday"},
+        { type: "image", src: "images/HMTeenageDirtbags.jpg", alt: "Holy Molars and the Teenage Dirtbags"},
+        { type: "image", src: "images/HOBscores10626.png", alt: "Hold Out Brewing Scoreboard"},
+        { type: "image", src: "images/HOBaGscores10626.png", alt: "The Hold Out Bar & Grill Scoreboard"},
+        { type: "image", src: "images/weeklyCategories10-6-2026.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "September 29, 2026",
       title: "Soup Sluts & Skeeter on My Peter win the week!<br>Pin Pals win September!",
       intro:
