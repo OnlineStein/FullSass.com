@@ -10,6 +10,23 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "October 13, 2026",
+      title: "Wisdom Teeth Goes Back2Back!<br>Grim Sleepers Win With A Strong Finish!",
+      intro:
+        "It's been a long time since anyone went back to back at Hold Out Brewing, but Wisdom Teeth fought off a bunch of challengers and had a great come-from-behind victory. October is looking like theirs to lose at the moment! Up North at The Hold Out Bar & Grill, The Grim Sleeper had a strong Lightning Round to capture the title! They took home the $30 gift card for their big strong trivia muscles!",
+      notes: [
+        "1. Wisdom Teeth (back2backChamps!); 2. The Hold Out Bar & Grill champs The Grim Sleepers; 3. Hold Out Brewing Scoreboard; 4. The Hold Out Bar & Grill Scoreboard; 5. The Weekly Categories"
+      ],
+      media: [
+        { type: "image", src: "images/WisdomTeeth20261013.jpg", alt: "Wisdom Teeth"},
+        { type: "image", src: "images/GrimSleepers.jpg", alt: "The Grim Sleepers"},
+        { type: "image", src: "images/HOBscores101326.png", alt: "Hold Out Brewing Scoreboard"},
+        { type: "image", src: "images/HOBaGscores101326.png", alt: "The Hold Out Bar & Grill Scoreboard"},
+        { type: "image", src: "images/weeklyCategories10-13-26.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "October 6, 2026",
       title: "Wisdom Teeth & The Quizard of Oz Win The Week!",
       intro:
