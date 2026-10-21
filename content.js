@@ -10,6 +10,23 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "October 20, 2026",
+      title: "NADT Lite Wins at The Bar & Grill<br>Team: Sisyphus, but instead of pushing a rock up a hill he has to finish on SSRIs wins downtown!",
+      intro:
+        "NADT Lite was tied at the half but powered through for a commanding victory at The Hold Out Bar & Grill. Down on 4th Street, Sisyphus was steady all along and came from behind to win (and finish!) on top!",
+      notes: [
+        "1. NADT Lite; 2. Sisyphus, but instead of pushing a rock up a hill he has to finish on SSRIs; 3. Hold Out Brewing Scoreboard; 4. The Hold Out Bar & Grill Scoreboard; 5. The Weekly Categories"
+      ],
+      media: [
+        { type: "image", src: "images/NADTLite.jpg", alt: "NADT Lite"},
+        { type: "image", src: "images/sisyphus.jpg", alt: "Sisyphus"},
+        { type: "image", src: "images/HOBscores102026.png", alt: "Hold Out Brewing Scoreboard"},
+        { type: "image", src: "images/HOBaGscores102026.png", alt: "The Hold Out Bar & Grill Scoreboard"},
+        { type: "image", src: "images/weeklyCategories10-20-26.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "October 13, 2026",
       title: "Wisdom Teeth Goes Back2Back!<br>Grim Sleepers Win With A Strong Finish!",
       intro:
