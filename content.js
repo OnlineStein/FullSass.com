@@ -18,7 +18,7 @@ window.FULL_SASS_CONTENT = {
         "1. NADT Lite; 2. Sisyphus, but instead of pushing a rock up a hill he has to finish on SSRIs; 3. Hold Out Brewing Scoreboard; 4. The Hold Out Bar & Grill Scoreboard; 5. The Weekly Categories"
       ],
       media: [
-        { type: "image", src: "images/NADTLite.jpg", alt: "NADT Lite"},
+        { type: "image", src: "images/NADTLITE.jpg", alt: "NADT Lite"},
         { type: "image", src: "images/sisyphus.jpg", alt: "Sisyphus"},
         { type: "image", src: "images/HOBscores102026.png", alt: "Hold Out Brewing Scoreboard"},
         { type: "image", src: "images/HOBaGscores102026.png", alt: "The Hold Out Bar & Grill Scoreboard"},
