@@ -23,7 +23,7 @@ window.FULL_SASS_CONTENT = {
       media: [
         { type: "image", src: "images/26Hall1.jpg", alt: "Pin Pals"},
         { type: "image", src: "images/26Hall93.jpg", alt: "Grim Sleepers"},
-        { type: "image", src: "images/HOBscores103026.png", alt: "Hold Out Brewing Scoreboard"},
+        { type: "image", src: "https://raw.githubusercontent.com/OnlineStein/FullSass.com/refs/heads/main/images/HOBScores103026.png", alt: "Hold Out Brewing Scoreboard"},
         { type: "image", src: "images/HOBaGscores103026.png", alt: "The Hold Out Bar & Grill Scoreboard"},
         { type: "image", src: "images/halloween2026Categories.jpg", alt: "Weekly Categories"}
       ]
