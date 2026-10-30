@@ -10,6 +10,26 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "October 27, 2026",
+      title: "Thanks for a great Halloween Edition!",
+      intro:
+        "We had an incredible Halloween trivia party and crowned some true trivia champions. (BTW, there's a whole bunch more pictures on the gram). Congrats to our champs Pin Pals and Grim Sleepers! THANK YOU to everyone who came out in costume and got weird with us. Y'all the real MVPs",
+      notes: [
+        "1. Pin Pals; 2. Grim Sleepers; 3. Hold Out Brewing Scoreboard; 4. The Hold Out Bar & Grill Scoreboard; 5. The Weekly Categories"
+      ],
+      link: [
+            "https://www.instagram.com/p/DfGDHInGF_E/?img_index=1"
+      ],
+      media: [
+        { type: "image", src: "images/26Hall1.jpg", alt: "Pin Pals"},
+        { type: "image", src: "images/26Hall93.jpg", alt: "Grim Sleepers"},
+        { type: "image", src: "images/HOBscores103026.png", alt: "Hold Out Brewing Scoreboard"},
+        { type: "image", src: "images/HOBaGscores103026.png", alt: "The Hold Out Bar & Grill Scoreboard"},
+        { type: "image", src: "images/halloween2026Categories.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "October 20, 2026",
       title: "NADT Lite Wins at The Bar & Grill<br>Team: Sisyphus, but instead of pushing a rock up a hill he has to finish on SSRIs wins downtown!",
       intro:
@@ -18,7 +38,7 @@ window.FULL_SASS_CONTENT = {
         "1. NADT Lite; 2. Sisyphus, but instead of pushing a rock up a hill he has to finish on SSRIs; 3. Hold Out Brewing Scoreboard; 4. The Hold Out Bar & Grill Scoreboard; 5. The Weekly Categories"
       ],
       media: [
-        { type: "image", src: "images/NADTLITE.jpg", alt: "NADT Lite!"},
+        { type: "image", src: "images/NADTLITE.jpg", alt: "NADT Lite"},
         { type: "image", src: "images/sisyphus.jpg", alt: "Sisyphus"},
         { type: "image", src: "images/HOBscores102026.png", alt: "Hold Out Brewing Scoreboard"},
         { type: "image", src: "images/HOBaGscores102026.png", alt: "The Hold Out Bar & Grill Scoreboard"},
