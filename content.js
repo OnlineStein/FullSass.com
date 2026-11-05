@@ -10,6 +10,26 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "November 3, 2026",
+      title: "The 2026 Erection Day Extravaganza",
+      intro:
+        "As the polls were closing, the trivia was getting fired up. Skeeter On My Peter and Turkey Breasts won the week and got the holiday season scoring off to a big start. We finished up trivia and saw Texas turn blue!",
+      notes: [
+        "1. Skeeter On My Peter; 2. Turkey Breasts; 3. The Hold Out Bar & Grill Scoreboard; 4. Hold Out Brewing Scoreboard; 5. The Weekly Categories"
+      ],
+      link: [
+            "https://www.instagram.com/p/DfGDHInGF_E/?img_index=1"
+      ],
+      media: [
+        { type: "image", src: "images/SkeeterPeter.jpg", alt: "Skeeter On My Peter"},
+        { type: "image", src: "images/TurkeyBreasts.jpg", alt: "Turkey Breasts"},
+        { type: "image", src: "images/HOBaGscores113026.png", alt: "The Hold Out Bar & Grill Scoreboard"},
+        { type: "image", src: "images/HOBScores113026.png", alt: "Hold Out Brewing Scoreboard"},
+        { type: "image", src: "images/weeklyCategories11-03-26.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "October 27, 2026",
       title: "Thanks for a great Halloween Edition!",
       intro:
