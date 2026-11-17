@@ -10,6 +10,22 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "November 10, 2026",
+      title: "Blue For Two!",
+      intro:
+        "OK how cool is this? The two winning teams names were 'Oops I Blue Myself' and Texas be like call me Tobias Funke the way I just blue myself. The odds of that happening have got to be astronomical! We also celebrated Native American Heritage Month a bit, and watched some graphic novel adaptations. Sorry we forgot to snap a pic of Oops I Blue Myself!! Guess you just gotta win again!",
+      notes: [
+        "1. Texas be like 'call me Tobias Funke the way I just blue myself'; 2. The Hold Out Bar & Grill Scoreboard; 3. Hold Out Brewing Scoreboard; 4. The Weekly Categories"
+      ],
+      media: [
+        { type: "image", src: "images/LongName.jpg", alt: "Texas be like 'call me Tobias Funke the way I just blue myself'"},
+        { type: "image", src: "images/HOBaGscores111026.png", alt: "The Hold Out Bar & Grill Scoreboard"},
+        { type: "image", src: "images/HOBScores111026.png", alt: "Hold Out Brewing Scoreboard"},
+        { type: "image", src: "images/weeklyCategories11-10-2026.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "November 3, 2026",
       title: "The 2026 Erection Day Extravaganza",
       intro:
