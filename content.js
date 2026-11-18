@@ -10,6 +10,23 @@ window.FULL_SASS_CONTENT = {
   results: [
     {
       published: true,
+      week: "November 17, 2026",
+      title: "Beer Pressure + Caulk Gobblers On Top!",
+      intro:
+        "We had significant victories - no tie-breakers needed - at both Hold Out Locations! Congrats to Beer Pressure & Caulk Gobblers! Two dominant wins before Thanksgiving break. Enjoy the victory for two full weeks!",
+      notes: [
+        "1. Caulk Gobblers; 2. Beer Pressure; 3. Hold Out Brewing Scoreboard; 4. The Weekly Categories"
+      ],
+      media: [
+        { type: "image", src: "images/CaulkGobblers.jpg", alt: "Caulk Gobblers"},
+        { type: "image", src: "images/BeerPressure2.jpg", alt: "Beer Pressure"},
+        { type: "image", src: "images/HOBaGscores111726.png", alt: "The Hold Out Bar & Grill Scoreboard"},
+        { type: "image", src: "images/HOBScores111726.png", alt: "Hold Out Brewing Scoreboard"},
+        { type: "image", src: "images/weeklyCategories11-17-26.jpg", alt: "Weekly Categories"}
+      ]
+    },
+    {
+      published: true,
       week: "November 10, 2026",
       title: "Blue For Two!",
       intro:
